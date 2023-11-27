@@ -1,1 +1,1 @@
-Here are Obidient Tech Space Dashboard and Email Verification test Pages I built for Skyline ICT Limited using HTML and CSS
+Here is an Obidient Tech Space Dashboard test Page I built for Skyline ICT Limited using HTML and CSS.
